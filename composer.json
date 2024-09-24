@@ -1,0 +1,19 @@
+{
+    "name": "faruq1997/academys",
+    "description": "this basic plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Faruq1997\\Academys\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Faruq Ahmed",
+            "email": "61549604+FaruqAhmed1@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
